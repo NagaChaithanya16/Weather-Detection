@@ -1,3 +1,7 @@
+# pip install bs4
+# pip install tkinter
+# pip install requests
+
 from bs4 import BeautifulSoup
 import requests
 from tkinter import *
